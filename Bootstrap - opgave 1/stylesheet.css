@@ -1,0 +1,43 @@
+
+body{
+    background-color: #e5e5e5;
+}
+
+.box{
+    background-color: orange;
+    height: 300px;
+}
+
+.bg-success{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,56,121,1) 35%, rgba(0,212,255,1) 100%);
+    
+    -webkit-box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+     box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+
+     border: 3px solid black;
+}
+
+.product__card{
+    background-color: white;
+    min-height: 325px;
+    border: 2px solid black;
+    box-shadow: 0 0 10px grey;
+    padding: 0 15px  15px 15px;
+}
+
+.product__card:hover{
+    box-shadow: 0px 0px 10px #107431;
+}
+
+.product__apple{
+    background-color: #e5e5e5;
+    margin: 5px;
+}
+
+.bg_white{
+    background-color: white;
+}
+
+/*Youtube/*
